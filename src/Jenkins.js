@@ -5,6 +5,7 @@ class Jenkins extends Component {
     return(
       <div>
         <h1>I am a CI/CD Tool</h1>
+      <h2>I am the boss here</h2>
       </div>
     );
   }
