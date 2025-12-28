@@ -5,7 +5,7 @@ class Git extends Component {
     return(
       <div>
         <h1>I am a Version Control Tool</h1>
-      <h2>this is mukesh ebale to run this project</h2>
+      <h2>This is Mukesh, and i am able to run this project Successfully.</h2>
       </div>
     );
   }
