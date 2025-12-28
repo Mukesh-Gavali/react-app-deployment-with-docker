@@ -6,7 +6,7 @@ class Kubernetes extends Component {
     return(
       <div>
         <h1>Thank You Have a Nice Day!!!</h1>
-      <h1>Thank to Mukesh Also have a Nice Day!!!</h1>
+      <h1>Thanks to Mukesh have a Nice Day!!!</h1>
 
       </div>
     );
